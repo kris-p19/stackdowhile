@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 style="text-align:center;">Hello World</h1>
+    <h1 style="text-align:center;">Hello World <small>สวัสดีครับ</small></h1>
 </body>
 </html>
